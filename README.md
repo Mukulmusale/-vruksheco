@@ -1,2 +1,2 @@
-# -vruksheco
-assignment(chatbot currency converter)
+# dialogflow-telegram-chatbot
+Backend for a Dialogflow chatbot
