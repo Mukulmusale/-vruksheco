@@ -1,2 +1,2 @@
-# dialogflow-telegram-chatbot
+# dialogflow-chatbot
 Backend for a Dialogflow chatbot
